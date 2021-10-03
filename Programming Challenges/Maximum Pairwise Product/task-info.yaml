@@ -121,4 +121,8 @@ files:
   learner_created: false
 feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/Xscmz/programming-assignment-1-maximum-pairwise-product/discussions
 status: Unchecked
+feedback:
+  message: Local tests passed, please <a href="https://www.coursera.org/learn/algorithmic-toolbox/programming/Xscmz/programming-assignment-1-maximum-pairwise-product/submission">submit
+    to Coursera</a>
+  time: Sun, 03 Oct 2021 13:12:25 UTC
 record: -1
